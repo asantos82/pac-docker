@@ -13,7 +13,7 @@ Latest version:
 
 `docker pull dresantos/pac:latest`
 
-* [Alternatively] Build an image from Dockerfile: `docker build -t="dresantos/gatling" github.com/asantos82/pac-docker`
+* [Alternatively] Build an image from Dockerfile: `docker build -t="dresantos/pac" github.com/asantos82/pac-docker`
 
 # Usage
 
